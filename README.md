@@ -15,7 +15,7 @@ Data Engineer with a statistical background and proven experience in building en
 📜 **Bachelor's degree in Statistics**  
 Federal University of Amazonas (UFAM)
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies I work with
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 15px; margin-bottom: 25px;">
 
@@ -64,7 +64,8 @@ Federal University of Amazonas (UFAM)
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-### ☁️ Cloud & DevOps
+
+  ### ☁️ Cloud & DevOps
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="60" title="GCP"/>
